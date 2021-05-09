@@ -1,0 +1,18 @@
+My First Project using Python & Django
+
+What I've learned with this project:
+-Starting a Django project
+-Starting a Django application
+-Connecting our Django App & Django project.
+-Creating a view and mapping to a URL (using RegEx)
+-Transfearable projects, dynamically generate a file path regardless the Operative System
+-Using Templates (contains the static parts of our HTML)
+-CSS as Static File (create continuity through our pages)
+-Models, Databases and relationships
+-Migrations: Django creates a DQL database that correspond to the created models.
+-Django Admin Interface
+
+Populations Scripts:
+populate_first_app file
+-Faker library: populate the models with data
+-Creating the scripts that will populate our database
